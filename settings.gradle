@@ -1,0 +1,2 @@
+include ':app', ':iranimagemaplib'
+rootProject.name='IranImageMap'
