@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/mehdi-salehi/IranImageMap.svg)](https://jitpack.io/#mehdi-salehi/IranImageMap)
+
 Iran Image Map
 ============
 Iran Image Map is ImageView with customizable provinces on map
@@ -30,7 +32,7 @@ Iran Image Map is ImageView with customizable provinces on map
         }
  ```
 ```groovy
-        implementation  ':1.0'
+        implementation 'com.github.mehdi-salehi:IranImageMap:1.0'
 ```
 
 ## License
