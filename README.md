@@ -21,17 +21,7 @@ Iran Image Map is ImageView with customizable provinces on map
         imageMap.setActiveProvince(ProvinceList.Tehran);
 ```
 
-## Credits
-Thanks to [Ariana](https://github.com/akshay2211/Ariana) for transition in sample
-
-## IOS
-
-Similar library [BubbleTabBar](https://github.com/Cuberto/bubble-icon-tabbar) by [Cuberto](https://github.com/Cuberto)
-
 ## Download
-
-[ ![Download](https://api.bintray.com/packages/fxn769/android_projects/BubbleTabBar/images/download.svg?version=1.0.1) ](https://bintray.com/fxn769/android_projects/BubbleTabBar/1.0.1/link)
-
 
  include in app level build.gradle
  ```groovy
@@ -40,7 +30,7 @@ Similar library [BubbleTabBar](https://github.com/Cuberto/bubble-icon-tabbar) by
         }
  ```
 ```groovy
-        implementation  'com.fxn769:bubbletabbar:1.0.1'
+        implementation  ':1.0'
 ```
 
 ## License
